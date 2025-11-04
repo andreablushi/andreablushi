@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey 👋 I'm Andrea Blushi
 
-<!--
-**andreablushi/andreablushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master Degree student in Computer Science @ University of Trento (IT).  
 
-Here are some ideas to get you started:
+### Tech Stack & Tools I actively use
+`Python` · `Linux` · `Anaconda` · `Java` · `C`    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- **LinkedIn**: [Andrea Blushi](https://www.linkedin.com/in/andrea-blushi-218441245/) 
+- **GitHub**: this profile  
+
+### Stats Zone
+![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreaBlushi&show_icons=true&hide_title=true)
+
