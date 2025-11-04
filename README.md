@@ -13,6 +13,4 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreablushi&show_icons=true&locale=en&layout=compact" alt="andreablushi" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andreablushi&show_icons=true&locale=en" alt="andreablushi" /></p>
+[![Andrea Blushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreablushi)](https://github.com/andreablushi/github-readme-stats)
