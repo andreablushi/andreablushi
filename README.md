@@ -10,5 +10,5 @@ Master Degree student in Computer Science @ University of Trento (IT).
 - **GitHub**: this profile  
 
 ### Stats Zone
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreaBlushi&show_icons=true&hide_title=true)
+![Metrics](https://github-readme-metrics.lecoq.io/AndreaBlushi?template=classic&config.timezone=Europe%2FRome)
 
